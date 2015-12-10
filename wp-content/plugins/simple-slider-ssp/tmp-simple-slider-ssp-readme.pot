@@ -1,0 +1,148 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WP Slider Plugin"
+msgstr ""
+
+#. Short description.
+msgid "WordPress slider plugin is a beautifully designed and an elegant plugin. It&#039;s simple, very easy to use, modern and responsive slider plugin."
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Premium Features"
+msgstr ""
+
+#. Found in description list item.
+msgid "Create Unlimited Sliders and a slider can have unlimited slides."
+msgstr ""
+
+#. Found in description list item.
+msgid "Responsive Slider"
+msgstr ""
+
+#. Found in description list item.
+msgid "Insert Sliders anywhere on your site using a simple shortcode"
+msgstr ""
+
+#. Found in description list item.
+msgid "Modern Drag and drop interface for reordering slides"
+msgstr ""
+
+#. Found in description list item.
+msgid "Extendable with skins"
+msgstr ""
+
+#. Found in description list item.
+msgid "WYSIWYG slide editor"
+msgstr ""
+
+#. Found in description list item.
+msgid "Every slider is configurable and can have unique and different options"
+msgstr ""
+
+#. Found in description list item.
+msgid "Touch gestures navigation for iOS, Android and other touch devices"
+msgstr ""
+
+#. Found in description list item.
+msgid "Keyboard navigation support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Works on iOS, Android and other mobile devices"
+msgstr ""
+
+#. Found in description list item.
+msgid "Flipbook skin, Create books, magazines,brochures etc and HTML slides are supported too."
+msgstr ""
+
+#. Found in description list item.
+msgid "Create slider from gallery images attached to a post or page"
+msgstr ""
+
+#. Found in description list item.
+msgid "Slides can have either pure HTML or only the image"
+msgstr ""
+
+#. Found in description list item.
+msgid "Responsive HTML skin supports HTML slide types"
+msgstr ""
+
+#. Found in description list item.
+msgid "jQuery Nivo slider skin with 5 different themes/styles"
+msgstr ""
+
+#. Found in description list item.
+msgid "Beautiful horizontal accordion skin"
+msgstr ""
+
+#. Found in description list item.
+msgid "Simple carousel skin"
+msgstr ""
+
+#. Found in description list item.
+msgid "More cool skins are planned and all those skins will be free for premium users."
+msgstr ""
+
+#. Found in description list item.
+msgid "24/7 Guaranteed Support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Convert the standard WP gallery shortcode to slider shortcode"
+msgstr ""
+
+#. Found in description list item.
+msgid "Instagram Addon - Automatically import instagram images and convert the images to slider."
+msgstr ""
+
+#. Found in description list item.
+msgid "Upload and extract the zip file downloaded to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in description list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in description list item.
+msgid "Click on the new menu item \"WP Slider\" and create your first Slider."
+msgstr ""
+
+#. Found in description list item.
+msgid "Use the slider shortcode to insert the slider into your posts or pages"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The WordPress slider plugin comes by default with a beautiful, responsive, modern and configurable slider skin. You can also extend the skin engine to use your own custom skins or get new skins with the <a href=\"http://rocketplugins.com/wordpress-slider-plugin/\">premium version</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The plugin is designed for users and the UI is very intuitive and easy to use. There are no major functionality compromises made in the free version of the plugin if you do like the free version please purchase the <a href=\"http://rocketplugins.com/wordpress-slider-plugin/\">premium version</a> of the plugin for extra goodies(listed below) and to support the future development of the plugin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "I hope you like and love my plugin in the same way like I do and to love it you have to actually install and use it. Please install the plugin and use it and then let me know your feedback <a href=\"http://rocketplugins.com/contact/\">here</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For more advanced features, skins and to get guaranteed support be sure to check out our premium version of the plugin, <a href=\"http://rocketplugins.com/wordpress-slider-plugin/\">Upgrade to Paid version</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "== Installation ="
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "= Where can I get support ?="
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Please use the support forum to ask questions the link is below.\n"
+"http://muneeb.me/support/forum/wordpress-slider-plugin-2/"
+msgstr ""
